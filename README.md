@@ -1,14 +1,14 @@
-[![Build Status](https://travis-ci.org/chzyer/readline.svg?branch=master)](https://travis-ci.org/chzyer/readline)
+[![Build Status](https://travis-ci.org/karantin2020/readline.svg?branch=master)](https://travis-ci.org/karantin2020/readline)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE.md)
-[![Version](https://img.shields.io/github/tag/chzyer/readline.svg)](https://github.com/chzyer/readline/releases)
-[![GoDoc](https://godoc.org/github.com/chzyer/readline?status.svg)](https://godoc.org/github.com/chzyer/readline)
+[![Version](https://img.shields.io/github/tag/karantin2020/readline.svg)](https://github.com/karantin2020/readline/releases)
+[![GoDoc](https://godoc.org/github.com/karantin2020/readline?status.svg)](https://godoc.org/github.com/karantin2020/readline)
 [![OpenCollective](https://opencollective.com/readline/badge/backers.svg)](#backers)
 [![OpenCollective](https://opencollective.com/readline/badge/sponsors.svg)](#sponsors)
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/chzyer/readline/assets/logo.png" />
+<img src="https://raw.githubusercontent.com/karantin2020/readline/assets/logo.png" />
 <a href="https://asciinema.org/a/32oseof9mkilg7t7d4780qt4m" target="_blank"><img src="https://asciinema.org/a/32oseof9mkilg7t7d4780qt4m.png" width="654"/></a>
-<img src="https://raw.githubusercontent.com/chzyer/readline/assets/logo_f.png" />
+<img src="https://raw.githubusercontent.com/karantin2020/readline/assets/logo_f.png" />
 </p>
 
 A powerful readline library in `Linux` `macOS` `Windows` `Solaris`
@@ -40,7 +40,7 @@ If you have any questions, please submit a github issue and any pull requests is
 * [http://weibo.com/2145262190](http://weibo.com/2145262190)
 
 
-## Backers
+## Backers for original repo
 
 Love Readline? Help me keep it alive by donating funds to cover project expenses!<br />
 [[Become a backer](https://opencollective.com/readline#backer)]
@@ -77,7 +77,7 @@ Love Readline? Help me keep it alive by donating funds to cover project expenses
 <a href="https://opencollective.com/readline/backer/29/website" target="_blank"><img src="https://opencollective.com/readline/backer/29/avatar.svg"></a>
 
 
-## Sponsors
+## Sponsors for original repo
 
 Become a sponsor and get your logo here on our Github page. [[Become a sponsor](https://opencollective.com/readline#sponsor)]
 

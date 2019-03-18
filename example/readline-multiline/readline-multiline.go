@@ -3,7 +3,7 @@ package main
 import (
 	"strings"
 
-	"github.com/chzyer/readline"
+	"github.com/karantin2020/readline"
 )
 
 func main() {
